@@ -99,6 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
       resultDisplay.textContent = cardsWon.length
       if  (cardsWon.length === cardArray.length/2) {
         resultDisplay.textContent = 'Congratulations! You found them all!'
+       setTimeout(()=>window.location.reload(),3000)
       }
     }
   
