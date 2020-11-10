@@ -55,6 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
   
     const grid = document.querySelector('.grid')
     const resultDisplay = document.querySelector('#result')
+    resultDisplay.textContent='0'
     var cardsChosen = []
     var cardsChosenId = []
     const cardsWon = []
