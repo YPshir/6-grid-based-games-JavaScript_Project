@@ -15,4 +15,14 @@ Memory Game, also known as the Concentration card game or Matching Game, is a si
 * If the next card you flip does not match, a pop up alert notifies you of ths and the cards flip back.
 * The game continues until you match all the cards on the board.
 
-## Tech
+## Features:
+##### HTML
+##### CSS
+##### JavaScript:
+###### for loops
+###### addEventListener
+###### setAttribute
+###### getAttribute
+###### data-name
+###### document.querySelector
+###### createElement
