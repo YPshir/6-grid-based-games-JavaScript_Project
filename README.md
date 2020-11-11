@@ -1,4 +1,4 @@
-# Memory-Game-JS
+# I. Memory-Game-JS
 JavaScript, HTML and CSS grid-based game
 
 
@@ -35,7 +35,7 @@ Memory Game, also known as the Concentration card game or Matching Game, is a si
 
 
   
-# Whack-A-Mole
+# II. Whack-A-Mole
 JavaScript, HTML and CSS grid-based game
 
 
