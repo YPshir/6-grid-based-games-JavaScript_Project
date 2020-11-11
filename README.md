@@ -20,9 +20,40 @@ Memory Game, also known as the Concentration card game or Matching Game, is a si
 ##### CSS
 ##### JavaScript:
 ###### for loops
-###### addEventListener
-###### setAttribute
-###### getAttribute
+###### addEventListener()
+###### setAttribute()
+###### getAttribute()
 ###### data-name
-###### document.querySelector
-###### createElement
+###### document.querySelector()
+###### sort()
+###### Math.random()
+###### appendChild()
+###### push()
+###### querySelector()
+###### createElement()  
+
+
+
+  
+# Whack-A-Mole
+JavaScript, HTML and CSS grid-based game
+
+
+## Live Demo
+[Code in CodePen](https://codepen.io/shir-izhak/pen/zYBMoRZ) // leshanot!!!
+
+## ABOUTE
+The player needs to hit the grid with the mole in as many times as possible until the time runs out.
+ 
+## Features:
+##### HTML
+##### CSS
+##### JavaScript:
+###### document.querySelector()
+###### textContent
+###### forEach
+###### addEventListener()
+###### setInterval()
+###### classList.add()
+###### classList.contains()
+###### Arrow functions
