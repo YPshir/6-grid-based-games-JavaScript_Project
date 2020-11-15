@@ -95,3 +95,27 @@ Connect Four is a two-player board game in which the players first choose a colo
 
   
 
+## IV. Nokia-Snake
+JavaScript, HTML and CSS grid-based game
+
+
+### Live Demo
+[Code in CodePen](https://codepen.io/shir-izhak/pen/zYBMoRZ) // leshanot
+
+### ABOUTE
+The player controls a long, thin creature, resembling a snake, which roams around on a bordered plane, picking up food (or some other item), trying to avoid hitting its own tail or the "walls" that surround the playing area. Each time the snake eats a piece of food, its tail grows longer, making the game increasingly difficult. The user controls the direction of the snake's head (up, down, left, or right), and the snake's body follows. The player cannot stop the snake from moving while the game is in progress.
+ 
+
+### Features:
+##### HTML
+##### CSS
+##### JavaScript:
+###### for loops
+###### querySelector()
+###### addEventListener()
+###### setInterval()
+###### keyCodes
+###### pop() , unshift() ,  push()
+###### classList.contains()
+###### classList.add()
+###### classList.remove()
