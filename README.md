@@ -31,7 +31,7 @@ Memory Game, also known as the Concentration card game or Matching Game, is a si
 ###### push()
 ###### querySelector()
 ###### createElement()  
-
+  
 
 
   
@@ -56,9 +56,9 @@ The player needs to hit the grid with the mole in as many times as possible unti
 ###### setInterval()
 ###### classList.add()
 ###### classList.contains()
-###### Arrow functions  
+###### Arrow functions   
 
-
+  
 # III. Connect-Four
 JavaScript, HTML and CSS grid-based game
 
@@ -88,5 +88,5 @@ Connect Four is a two-player board game in which the players first choose a colo
 ###### classList.add()  
 
 
-
+  
 
