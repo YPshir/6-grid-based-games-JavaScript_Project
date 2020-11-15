@@ -40,7 +40,7 @@ JavaScript, HTML and CSS grid-based game
 
 
 ## Live Demo
-[Code in CodePen](https://codepen.io/shir-izhak/pen/zYBMoRZ) // leshanot!!!
+[Code in CodePen](https://codepen.io/shir-izhak/pen/Pozxbmx) 
 
 ## ABOUTE
 The player needs to hit the grid with the mole in as many times as possible until the time runs out.
