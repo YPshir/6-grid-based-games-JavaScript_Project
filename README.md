@@ -3,7 +3,7 @@ JavaScript, HTML and CSS grid-based game
 
 
 ## Live Demo
-[Code in CodePen](https://codepen.io/shir-izhak/pen/zYBMoRZ)
+[Code in CodePen](https://codepen.io/collection/Xbeoje)
 
 ## ABOUTE
 Memory Game, also known as the Concentration card game or Matching Game, is a simple card game where you need to match pairs by turn over 2 cards at a time.
