@@ -118,4 +118,33 @@ The player controls a long, thin creature, resembling a snake, which roams aroun
 ###### pop() , unshift() ,  push()
 ###### classList.contains()
 ###### classList.add()
-###### classList.remove()
+###### classList.remove()  
+  
+## V. Memory-Game-JS
+JavaScript, HTML and CSS grid-based game
+
+
+### Live Demo
+[Code in CodePen](https://codepen.io/shir-izhak/pen/zYBMoRZ) // leshanot
+
+### ABOUTE
+Space Invaders is a simple grid-based game in which you as the shooter have to shoot down as many alien invaders before they get to you. 15 x 15 grid square with 20 invaders to shoot. 
+
+### Features:
+##### HTML
+##### CSS
+##### JavaScript:
+###### for loops
+###### querySelector()
+###### addEventListener()
+###### Switch cases
+###### keyCodes
+###### indexOf()
+###### includes()
+###### classList
+###### setInterval()
+###### clearInterval()
+###### push()
+  
+
+
