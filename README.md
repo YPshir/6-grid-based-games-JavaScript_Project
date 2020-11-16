@@ -143,7 +143,39 @@ Space Invaders is a simple grid-based game in which you as the shooter have to s
 ###### classList
 ###### setInterval()
 ###### clearInterval()
-###### push()
-  
+###### push()  
+   
+## V. Frogger
+JavaScript, HTML and CSS grid-based game
+
+
+### Live Demo
+[Code in CodePen](https://codepen.io/shir-izhak/pen/qBNvRMx) // leshanot
+### ABOUTE
+The object of the game is to direct a frog to its home by crossing a busy road and navigating a river by jumping on logs. 
+#### Rules
+* You will start on your blue starting block, or 'starting-block'
+* You have 20 seconds from pressing the start button to get to your red block or 'ending-block' to win the game
+* You will lose if the time runs out
+* You will lose if you get hit by a car, or 'c1'
+* You will lose if you fall into the river, or '.l4, .l5, .lf2, .lf3'
+* You will be safe on the road, or '.c2, .c3'
+* You will be safe on the logs, or '.l1, .l2, .l3'
+* You will move with the logs when on them
+* You can pause the game by pressing the same button as you did to start the game
+
+### Features:
+##### HTML
+##### CSS
+##### JavaScript:
+###### querySelector()
+###### addEventListener()
+###### setInterval()
+###### clearInterval()
+###### forEach()
+###### classList.contains()
+###### classList.add()
+###### classList.remove()
+
 
 
