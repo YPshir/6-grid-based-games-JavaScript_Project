@@ -1,4 +1,4 @@
-# JavaScript Project - 7 grid based retro games
+# JavaScript Project - 6 grid based retro games
 These all games are created by using HTML, CSS and vanilla JavaScript 
 [Click for display live](https://codepen.io/collection/Xbeoje)
 
