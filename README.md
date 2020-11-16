@@ -120,7 +120,7 @@ The player controls a long, thin creature, resembling a snake, which roams aroun
 ###### classList.add()
 ###### classList.remove()  
   
-## V. Memory-Game-JS
+## V. Space Invaders
 JavaScript, HTML and CSS grid-based game
 
 
