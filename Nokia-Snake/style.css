@@ -1,0 +1,33 @@
+.grid{
+    width:400px;
+    height: 400px;
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: solid;
+}
+
+.score{
+    text-align: center;
+}
+
+.start{
+    position:relative;
+    left:45%;
+}
+
+.grid div{
+    width:40px;
+    height:40px;
+    border-style: solid;
+    border-width: 0.001px;
+    box-sizing: border-box;
+}
+
+.snake{
+    background-color: blue;
+}
+
+.apple{
+    background-color: red;
+}
