@@ -145,7 +145,7 @@ Space Invaders is a simple grid-based game in which you as the shooter have to s
 ###### clearInterval()
 ###### push()  
    
-## V. Frogger
+## VI. Frogger
 JavaScript, HTML and CSS grid-based game
 
 
