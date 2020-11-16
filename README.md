@@ -150,7 +150,7 @@ JavaScript, HTML and CSS grid-based game
 
 
 ### Live Demo
-[Code in CodePen](https://codepen.io/shir-izhak/pen/QWEopPO)
+[Code in CodePen](https://codepen.io/shir-izhak/pen/KKMEWYQ)
 ### ABOUTE
 The object of the game is to direct a frog to its home by crossing a busy road and navigating a river by jumping on logs. 
 #### Rules
