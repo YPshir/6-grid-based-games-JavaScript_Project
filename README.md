@@ -178,7 +178,7 @@ The object of the game is to direct a frog to its home by crossing a busy road a
 ###### classList.remove()  
   
 
-## VI. Tetris 
+## VII. Tetris 
 JavaScript, HTML and CSS grid-based game
 
 
