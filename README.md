@@ -175,7 +175,43 @@ The object of the game is to direct a frog to its home by crossing a busy road a
 ###### forEach()
 ###### classList.contains()
 ###### classList.add()
-###### classList.remove()
+###### classList.remove()  
+  
 
+## VI. Tetris 
+JavaScript, HTML and CSS grid-based game
+
+
+### Live Demo
+[Code in CodePen](https://codepen.io/shir-izhak/pen/KKMEWYQ) // leshanot
+### ABOUTE
+etris is a tile-matching puzzle game from the 80’s. Try to get your personal high score by moving each of the 5 randomly selected Tetromino shapes sideways and/or rotating by quarter-turns, so that they form a solid horizontal line without gaps. When such a line is formed, it disappears and any blocks above it fall down to fill the space. For each line you will receive 10 points.
+#### Rules
+* The game should stop if a Tetrimino fills the highest row of the game board
+* The player should be able to rotate each Tetrimino about its own axis
+* If a line is completed it should be removed and the pieces above should take its place
+
+### Features:
+##### HTML
+##### CSS
+##### JavaScript:
+###### querySelector()
+###### addEventListener()
+###### Array.from()
+###### getElementsByClassName()
+###### Math.floor()
+###### Math.random()
+###### forEach()
+###### classList.contains()
+###### classList.add()
+###### classList.remove()
+###### setInterval()
+###### clearInterval()
+###### some()
+###### style.backgroundImage
+###### splice()
+###### concat()
+###### appendChild()
+###### Arrow functions
 
 
