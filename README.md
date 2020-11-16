@@ -6,7 +6,7 @@ These all games are created by using HTML, CSS and vanilla JavaScript
 
 
 ## I. Memory-Game-JS
-JavaScript, HTML and CSS grid-based game
+HTML , CSS and Vanilla JavaScript grid-based game
 
 
 ### Live Demo
@@ -43,7 +43,7 @@ Memory Game, also known as the Concentration card game or Matching Game, is a si
 
   
 ## II. Whack-A-Mole
-JavaScript, HTML and CSS grid-based game
+HTML , CSS and Vanilla JavaScript grid-based game
 
 
 ### Live Demo
@@ -67,7 +67,7 @@ The player needs to hit the grid with the mole in as many times as possible unti
 
   
 ## III. Connect-Four
-JavaScript, HTML and CSS grid-based game
+HTML , CSS and Vanilla JavaScript grid-based game
 
 
 ### Live Demo
@@ -98,7 +98,7 @@ Connect Four is a two-player board game in which the players first choose a colo
   
 
 ## IV. Nokia-Snake
-JavaScript, HTML and CSS grid-based game
+HTML , CSS and Vanilla JavaScript grid-based game
 
 
 ### Live Demo
@@ -123,7 +123,7 @@ The player controls a long, thin creature, resembling a snake, which roams aroun
 ###### classList.remove()  
   
 ## V. Space Invaders
-JavaScript, HTML and CSS grid-based game
+HTML , CSS and Vanilla JavaScript grid-based game
 
 
 ### Live Demo
@@ -148,7 +148,7 @@ Space Invaders is a simple grid-based game in which you as the shooter have to s
 ###### push()  
    
 ## VI. Frogger
-JavaScript, HTML and CSS grid-based game
+HTML , CSS and Vanilla JavaScript grid-based game
 
 
 ### Live Demo
